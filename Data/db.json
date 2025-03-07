@@ -1,0 +1,136 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Gud Ki Roti",
+      "image": "GudRoti_Daal_chwal.jpeg",
+      "description": "A sweet flatbread made with jaggery, coconut, and whole wheat flour.",
+      "time_to_cook": 30,
+      "vegetarian": true,
+      "ingredients": [
+        "1 cup whole wheat flour",
+        "1/2 cup jaggery (grated)",
+        "2 tbsp grated coconut",
+        "1 tbsp sesame seeds",
+        "1 tbsp ghee",
+        "Water (as needed)"
+      ],
+      "procedure": "Heat a pan and lightly roast grated coconut and sesame seeds for 1-2 minutes until aromatic. Add grated jaggery and mix well until it melts slightly. Remove from heat and let it cool. Meanwhile, knead a soft dough using whole wheat flour, water, and ghee. Divide the dough into small balls, flatten them, and place a portion of the jaggery mixture inside. Seal the edges, roll gently into a flatbread, and cook on a heated pan until golden brown on both sides, applying ghee as needed."
+    },
+    {
+      "id": "2",
+      "title": "Ginger Tea",
+      "image": "Ginger_Tea.jpeg",
+      "description": "A warm and soothing tea infused with fresh ginger.",
+      "time_to_cook": 10,
+      "vegetarian": true,
+      "ingredients": [
+        "1 cup water",
+        "1 tsp grated fresh ginger",
+        "1 tsp tea leaves (or tea bag)",
+        "1 tsp honey or sugar",
+        "1/4 cup milk (optional)"
+      ],
+      "procedure": "Boil water with ginger. Add tea leaves and let steep. Strain, add milk and sweetener if desired, and serve hot."
+    },
+    {
+      "id": "3",
+      "title": "Lemon Rice",
+      "image": "Lemon_Rice.jpeg",
+      "description": "A tangy and flavorful South Indian rice dish with lemon and spices.",
+      "time_to_cook": 25,
+      "vegetarian": true,
+      "ingredients": [
+        "2 cups cooked rice",
+        "1 tbsp oil",
+        "1 tsp mustard seeds",
+        "5-6 curry leaves",
+        "1 green chili (chopped)",
+        "1/2 tsp turmeric powder",
+        "2 tbsp lemon juice",
+        "Salt to taste"
+      ],
+      "procedure": "Heat oil, add mustard seeds, curry leaves, and chili. Add turmeric, salt, and mix with cooked rice. Finish with lemon juice."
+    },
+    {
+      "id": "4",
+      "title": "Boiled Eggs and Paneer Tikka",
+      "image": "BoiledEggs_PaneerTikka.jpeg",
+      "description": "A protein-packed combo of perfectly boiled eggs and smoky, spiced paneer tikka—ideal for a nutritious snack or meal.",
+      "time_to_cook": 20,
+      "vegetarian": false,
+      "ingredients": [
+        "4 boiled eggs",
+        "200g paneer (cuboids)",
+        "2 tbsp yogurt",
+        "1 tsp red chili powder",
+        "1/2 tsp turmeric powder",
+        "1/2 tsp garam masala",
+        "1 tsp lemon juice",
+        "1 tbsp oil"
+      ],
+      "procedure": "Mix yogurt, spices, and lemon juice. Coat paneer cubes and grill or pan-fry until golden. Serve with boiled eggs."
+    },
+    {
+      "id": "5",
+      "title": "Watermelon Juice",
+      "image": "Watermelon_juice.jpeg",
+      "description": "A refreshing summer drink made from fresh frozen watermelon.",
+      "time_to_cook": 5,
+      "vegetarian": true,
+      "ingredients": [
+        "2 cups watermelon (seedless, cubed)",
+        "1 tsp lemon juice",
+        "1/2 tsp black salt",
+        "Ice cubes (optional)"
+      ],
+      "procedure": "Blend watermelon until smooth. Add lemon juice and black salt. Serve chilled with ice cubes."
+    },
+    {
+      "id": "6",
+      "title": "Rice & Creamy Aloo Palak Daal",
+      "image": "LasuniPalakAloo_Chawal.jpeg",
+      "description": "A rich and creamy spinach and potato curry served with rice.",
+      "time_to_cook": 45,
+      "vegetarian": true,
+      "ingredients": [
+        "1/2 cup lentils (toor dal or moong dal, cooked)",
+        "2 cups fresh spinach (chopped)",
+        "2 medium potatoes (boiled and cubed)",
+        "1 onion (chopped)",
+        "1 tomato (chopped)",
+        "1 green chili (finely chopped)",
+        "3-4 cloves garlic (minced)",
+        "1/2 tsp turmeric powder",
+        "1/2 tsp red chili powder",
+        "A pinch of asafoetida (hing)",
+        "1 tsp cumin powder",
+        "1/2 tsp cumin seeds",
+        "1/4 cup cream",
+        "2 tbsp grated cheese (optional)",
+        "Fresh coriander (chopped, for garnish)",
+        "Salt to taste",
+        "1 tbsp oil or ghee"
+      ],
+      "procedure": "Heat oil or ghee in a pan and add cumin seeds. Once they start to splutter, add chopped onions and garlic. Sauté until onions turn golden brown. Add chopped tomatoes, green chili, turmeric, red chili powder, and asafoetida. Cook until tomatoes are soft. Add the boiled and cubed potatoes, mix well, and cook for 2 minutes. Stir in the chopped spinach and let it wilt. Add salt and cover the pan, cooking for 5-7 minutes. Stir occasionally. Add the cooked dal and mix well. Let it simmer for 5 minutes until everything blends together. Stir in the cream, then let it cook for another 2 minutes. Garnish with grated cheese and fresh coriander. Serve hot with cooked rice."
+    },
+    {
+      "id": "7",
+      "title": "Oats Smoothie",
+      "image": "Oats_Smoothie.jpeg",
+      "description": "A healthy and filling shake made with oats, banana, milk, chia seeds, almonds, cocoa powder, and honey.",
+      "time_to_cook": 5,
+      "vegetarian": true,
+      "ingredients": [
+        "1/2 cup oats",
+        "1 frozen banana",
+        "1 cup milk",
+        "1 tsp chia seeds",
+        "4 almonds",
+        "1 tsp cocoa powder",
+        "1 tbsp honey"
+      ],
+      "procedure": "Blend all ingredients until smooth. Garnish with chocolate shavings and serve immediately."
+    }
+  ]
+}
